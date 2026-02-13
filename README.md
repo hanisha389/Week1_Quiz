@@ -1,10 +1,8 @@
-# Week1_Quiz
-# TITLE
+# Week1_Quiz Title
 This is a Decision Making Style Assesment QUIZ
 
 # About the Project
 This Assessment evaluates a user’s dominant decision-making style based on situational questions.
-
 It identifies whether a person primarily thinks like an:
 	• Analyst (Logic-focused)
 	• Empath (Emotion-focused)
@@ -23,6 +21,8 @@ It identifies whether a person primarily thinks like an:
      -Strengths
      -Improvemnet Suggestions
 
-# Output
+# Output Image1
 ![alt text](<Screenshot 2026-02-14 015907.png>)
+
+# Output Image2
 ![alt text](image.png)
